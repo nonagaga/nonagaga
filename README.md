@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi! I'm Gabe! 👋
+
+My name is Gabriel Reyes Wagner. Here's some of the stuff I've been working on!
+
+
 
 <!--
 **nonagaga/nonagaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
