@@ -2,7 +2,7 @@
 
 My name is Gabriel Reyes Wagner. Here's some of the stuff I've been working on!
 
-
+[3-axis robotic arm](https://github.com/nonagaga/3-axis-robot-arm) I made for an internship.
 
 <!--
 **nonagaga/nonagaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
